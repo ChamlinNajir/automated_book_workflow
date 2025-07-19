@@ -1,0 +1,12 @@
+openai
+playwright
+chromadb
+langchain
+transformers
+torch
+tenacity
+beautifulsoup4
+requests
+soundfile
+pydub
+speechrecognition

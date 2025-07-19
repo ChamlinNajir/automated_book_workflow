@@ -1,0 +1,20 @@
+[
+  {
+    "time": "2025-07-14 17:33:28",
+    "success": true,
+    "reward": 1,
+    "message": "Scraping completed successfully"
+  },
+  {
+    "time": "2025-07-14 18:12:41",
+    "success": true,
+    "reward": 1,
+    "message": "Scraping completed successfully"
+  },
+  {
+    "time": "2025-07-15 11:25:52",
+    "review_success": true,
+    "message": "Review completed successfully.",
+    "1": 1
+  }
+]
